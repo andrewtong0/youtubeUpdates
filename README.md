@@ -20,8 +20,3 @@ In order to make the code work, you must modify the following in the code:
 ## Important Notes
 * If a user uploads more than one video before the next call is made, it will only show the latest video
 * If a user uploads two videos in a row with the exact same name, it will not update (since the name of the video is used to check whether a new video goes up)
-
-## Special Thanks
-Thanks to the following articles as they helped in various functionality with this script:
-* How to Get an RSS Feed for a YouTube Channel, January 10, 2016, updated November 7, 2017
-  * Used to learn how to create an RSS feed from a YouTube channel
